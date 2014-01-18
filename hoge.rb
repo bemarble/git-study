@@ -1,4 +1,4 @@
 #!ruby
 #
 
-puts "test"
+puts "hello world"
